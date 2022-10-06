@@ -100,7 +100,7 @@ msgstr "관리자 계정이 하나 뿐일 때는 관리자를 삭제할 수 없�
 
 #: cps/admin.py:494 cps/admin.py:508
 msgid "Value has to be true or false"
-msgstr "값으로 rue 또는 false만 설정 가능"
+msgstr "값으로 true 또는 false만 설정 가능"
 
 #: cps/admin.py:496
 msgid "Invalid role"
